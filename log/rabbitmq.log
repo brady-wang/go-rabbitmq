@@ -3200,3 +3200,394 @@
 2021/03/06 01:40:27 TopicConsumer.go:25:  [queue_zone] hello world
 2021/03/06 01:40:28 TopicPublisher.go:22:  [queue_zone] Sent hello world
 2021/03/06 01:40:28 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:29 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:29 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:30 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:30 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:31 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:31 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:32 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:32 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:33 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:33 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:34 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:34 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:35 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:35 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:36 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:36 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:37 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:37 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:38 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:38 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:39 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:39 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:40 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:40 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:41 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:41 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:42 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:42 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:43 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:43 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:44 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:44 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:45 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:45 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:46 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:46 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:47 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:47 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:48 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:48 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:49 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:49 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:50 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:50 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:51 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:51 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:52 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:52 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:53 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:53 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:54 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:54 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:55 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:55 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:56 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:56 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:57 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:57 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:58 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:58 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:40:59 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:40:59 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:00 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:00 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:01 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:01 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:02 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:02 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:03 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:03 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:04 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:04 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:05 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:05 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:06 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:06 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:07 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:07 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:08 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:08 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:09 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:09 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:10 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:10 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:11 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:11 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:12 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:12 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:13 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:13 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:14 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:14 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:15 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:15 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:16 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:16 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:17 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:17 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:18 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:18 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:19 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:19 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:20 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:20 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:21 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:21 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:22 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:22 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:23 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:23 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:24 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:24 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:25 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:25 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:26 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:26 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:27 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:27 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:28 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:28 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:29 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:29 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:30 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:30 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:31 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:31 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:32 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:32 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:33 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:33 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:34 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:34 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:35 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:35 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:36 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:36 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:37 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:37 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:38 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:38 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:39 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:39 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:40 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:40 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:41 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:41 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:42 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:42 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:43 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:43 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:44 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:44 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:45 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:45 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:46 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:46 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:47 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:47 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:48 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:48 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:49 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:49 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:50 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:50 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:51 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:51 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:52 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:52 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:53 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:53 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:54 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:54 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:55 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:55 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:56 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:56 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:57 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:57 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:58 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:58 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:41:59 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:41:59 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:00 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:00 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:01 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:01 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:02 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:02 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:03 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:03 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:04 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:04 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:05 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:05 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:06 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:06 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:07 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:07 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:08 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:08 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:09 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:09 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:10 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:10 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:11 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:11 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:12 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:12 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:13 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:13 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:14 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:14 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:15 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:15 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:16 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:16 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:17 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:17 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:18 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:18 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:19 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:19 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:20 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:20 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:21 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:21 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:22 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:22 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:23 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:23 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:24 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:24 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:25 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:25 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:26 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:26 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:27 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:27 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:28 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:28 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:29 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:29 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:30 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:30 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:31 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:31 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:32 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:32 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:33 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:33 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:34 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:34 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:35 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:35 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:36 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:36 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:37 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:37 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:38 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:38 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:39 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:39 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:40 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:40 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:41 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:41 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:42 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:42 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:43 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:43 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:44 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:44 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:45 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:45 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:46 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:46 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:47 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:47 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:48 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:48 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:49 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:49 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:50 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:50 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:51 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:51 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:52 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:52 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:53 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:53 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:54 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:54 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:55 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:55 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:56 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:56 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:57 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:57 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:58 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:58 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:42:59 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:42:59 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:00 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:00 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:01 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:01 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:02 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:02 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:03 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:03 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:04 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:04 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:05 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:05 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:06 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:06 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:07 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:07 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 01:43:08 TopicPublisher.go:22:  [queue_zone] Sent hello world
+2021/03/06 01:43:08 TopicConsumer.go:25:  [queue_zone] hello world
+2021/03/06 02:17:05 main.go:37: [SyncZone] 消费开启
+2021/03/06 02:17:05 main.go:37: [SyncUser] 消费开启
+2021/03/06 02:17:05 main.go:37: [SyncAddress] 消费开启
+2021/03/06 02:17:05 Topic.go:48: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/06 02:17:05 Topic.go:48: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/06 02:17:05 Topic.go:48: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/06 02:17:05 TopicConsumer.go:30:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:17:05 TopicConsumer.go:30:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:17:05 TopicConsumer.go:30:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:02 main.go:35: [SyncZone] 消费开启
+2021/03/06 02:18:02 main.go:35: [SyncUser] 消费开启
+2021/03/06 02:18:02 main.go:35: [SyncAddress] 消费开启
+2021/03/06 02:18:02 Topic.go:48: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/06 02:18:02 Topic.go:48: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/06 02:18:02 Topic.go:48: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/06 02:18:02 TopicConsumer.go:30:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:02 TopicConsumer.go:30:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:02 TopicConsumer.go:30:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:39 main.go:35: [SyncZone] 消费开启
+2021/03/06 02:18:39 main.go:35: [SyncUser] 消费开启
+2021/03/06 02:18:39 main.go:35: [SyncAddress] 消费开启
+2021/03/06 02:18:39 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/06 02:18:39 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/06 02:18:39 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/06 02:18:39 TopicConsumer.go:30:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:39 TopicConsumer.go:30:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:18:39 TopicConsumer.go:30:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:19:12 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:19 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:19 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:20 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:21 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:21 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:21 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:19:21 TopicConsumer.go:26:  [queue_address] ddddd
+2021/03/06 02:21:24 main.go:35: [SyncZone] 消费开启
+2021/03/06 02:21:24 main.go:35: [SyncUser] 消费开启
+2021/03/06 02:21:24 main.go:35: [SyncAddress] 消费开启
+2021/03/06 02:21:24 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/06 02:21:24 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/06 02:21:24 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/06 02:21:24 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:21:24 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:21:24 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:24 TopicConsumer.go:27:  [queue_address]收到消息 ddddd
+2021/03/06 02:21:37 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:37 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:37 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:37 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:38 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:38 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:38 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:38 TopicConsumer.go:27:  [queue_address]收到消息 sdf
+2021/03/06 02:21:38 TopicConsumer.go:27:  [queue_address]收到消息 sdf
