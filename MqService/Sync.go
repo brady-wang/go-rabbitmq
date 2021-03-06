@@ -15,7 +15,6 @@ type MqSyncMethod struct {
 }
 
 
-
 func Sync(funcName string, ch *amqp.Channel, wg *sync.WaitGroup) () {
 
 	value := reflect.ValueOf(&MqSyncMethod{})
@@ -23,6 +22,7 @@ func Sync(funcName string, ch *amqp.Channel, wg *sync.WaitGroup) () {
 	args := make([]reflect.Value,0)
 	args = append(args, reflect.ValueOf(ch),reflect.ValueOf(wg) )
 	methodValue.Call(args)
+	
 
 	//switch funcName {
 	//case "SyncZone":
