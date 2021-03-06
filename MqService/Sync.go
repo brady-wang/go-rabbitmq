@@ -4,30 +4,46 @@ import (
 	"github.com/streadway/amqp"
 	"mq/MqConfig"
 	"mq/MqFactory/Topic"
+	"reflect"
 	"sync"
 	"time"
 )
 
-func Sync(funcName string, ch *amqp.Channel, wg *sync.WaitGroup) () {
+type MqSyncMethod struct {
 
-	switch funcName {
-	case "SyncZone":
-		SyncZone(ch, wg)
-
-	case "SyncAddress":
-		SyncAddress(ch, wg)
-
-	case "SyncUser":
-		SyncUser(ch, wg)
-
-	default:
-		SyncZone(ch, wg)
-
-	}
 
 }
 
-func SyncAddress(ch *amqp.Channel, wg *sync.WaitGroup) {
+
+
+func Sync(funcName string, ch *amqp.Channel, wg *sync.WaitGroup) () {
+
+	value := reflect.ValueOf(&MqSyncMethod{})
+	methodValue := value.MethodByName(funcName)
+	args := make([]reflect.Value,0)
+	args = append(args, reflect.ValueOf(ch),reflect.ValueOf(wg) )
+	methodValue.Call(args)
+
+	//switch funcName {
+	//case "SyncZone":
+	//	SyncZone(ch, wg)
+	//
+	//case "SyncAddress":
+	//	SyncAddress(ch, wg)
+	//
+	//case "SyncUser":
+	//	SyncUser(ch, wg)
+	//
+	//default:
+	//	SyncZone(ch, wg)
+	//
+	//}
+
+}
+
+
+
+func (m *MqSyncMethod) SyncAddress(ch *amqp.Channel, wg *sync.WaitGroup) {
 	defer wg.Done()
 	Topic.ExchangeDeclare(ch, MqConfig.AddressMq.ExchangeName) // 声明交换机
 	Topic.QueueDeclare(ch, MqConfig.AddressMq.QueueName)
@@ -35,7 +51,7 @@ func SyncAddress(ch *amqp.Channel, wg *sync.WaitGroup) {
 	Topic.Consume(ch, MqConfig.AddressMq.QueueName)
 }
 
-func SyncUser(ch *amqp.Channel, wg *sync.WaitGroup) {
+func (m *MqSyncMethod) SyncUser(ch *amqp.Channel, wg *sync.WaitGroup) {
 	defer wg.Done()
 	Topic.ExchangeDeclare(ch, MqConfig.UserMq.ExchangeName) // 声明交换机
 	Topic.QueueDeclare(ch, MqConfig.UserMq.QueueName)
@@ -43,7 +59,7 @@ func SyncUser(ch *amqp.Channel, wg *sync.WaitGroup) {
 	Topic.Consume(ch, MqConfig.UserMq.QueueName)
 }
 
-func SyncZone(ch *amqp.Channel, wg *sync.WaitGroup) {
+func (m *MqSyncMethod) SyncZone(ch *amqp.Channel, wg *sync.WaitGroup) {
 	defer wg.Done()
 	Topic.ExchangeDeclare(ch, MqConfig.ZoneMq.ExchangeName) // 声明交换机
 	Topic.QueueDeclare(ch, MqConfig.ZoneMq.QueueName)
@@ -51,7 +67,7 @@ func SyncZone(ch *amqp.Channel, wg *sync.WaitGroup) {
 	Topic.Consume(ch, MqConfig.ZoneMq.QueueName)
 }
 
-func PushZone(message string,ch *amqp.Channel,wg *sync.WaitGroup)  {
+func (m *MqSyncMethod) PushZone(message string,ch *amqp.Channel,wg *sync.WaitGroup)  {
 	defer wg.Done()
 	Topic.ExchangeDeclare(ch, MqConfig.ZoneMq.ExchangeName) // 声明交换机
 	Topic.QueueDeclare(ch, MqConfig.ZoneMq.QueueName)
