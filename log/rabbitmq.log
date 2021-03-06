@@ -3653,3 +3653,159 @@
 2021/03/06 12:28:09 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
 2021/03/06 12:28:09 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
 2021/03/06 12:28:09 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:43:23 Error.go:22: Failed to connect to RabbitMQ: dial tcp 192.168.1.99:5672: i/o timeout
+2021/03/07 00:43:56 Error.go:22: Failed to connect to RabbitMQ: dial tcp 192.168.1.99:5672: i/o timeout
+2021/03/07 00:45:11 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:45:11 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:45:11 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:45:11 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:45:11 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:45:11 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:45:11 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:11 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:11 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:39 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:45:39 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:45:39 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:45:39 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:45:39 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:45:39 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:45:39 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:39 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:39 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:52 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:45:52 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:45:52 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:45:52 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:45:52 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:45:52 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:45:52 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:52 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:45:52 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:46:48 TopicConsumer.go:27: [queue_address]收到消息 llll
+2021/03/07 00:47:07 TopicConsumer.go:27: [queue_address]收到消息 llll
+2021/03/07 00:48:09 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:48:09 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:48:09 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:48:09 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:48:09 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:48:09 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:48:09 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:09 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:09 TopicConsumer.go:37:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:12 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:48:15 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:48:32 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:48:32 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:48:32 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:48:32 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:48:32 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:48:32 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:48:32 TopicConsumer.go:38:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:32 TopicConsumer.go:38:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:32 TopicConsumer.go:38:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:48:41 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:48:48 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:48:48 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:48:49 TopicConsumer.go:28: [queue_address]收到消息 llll
+2021/03/07 00:49:21 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:49:21 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:49:21 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:49:21 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:49:21 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:49:21 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:49:21 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:49:21 TopicConsumer.go:37:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:49:21 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:49:24 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:49:24 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:49:24 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:49:24 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:49:24 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:49:24 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:49:24 TopicConsumer.go:37:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:49:24 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:49:24 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:52:44 main.go:35: [SyncZone] 消费开启
+2021/03/07 00:52:44 main.go:35: [SyncUser] 消费开启
+2021/03/07 00:52:44 main.go:35: [SyncAddress] 消费开启
+2021/03/07 00:52:44 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 00:52:44 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:52:44 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 00:52:44 TopicConsumer.go:37:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:52:44 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:52:44 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:54:11 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:54:34 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:54:38 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:55:12 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:56:06 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:56:28 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:56:28 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:56:45 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:56:45 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:56:55 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:56:55 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:57:02 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:57:02 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:57:51 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:57:51 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:57:56 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:57:56 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:57:59 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:57:59 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:58:05 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:58:05 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:58:08 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:58:08 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:58:21 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:58:21 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:58:23 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:58:23 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:58:30 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:58:30 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:59:09 Error.go:22: Failed to declare an exchange: Exception (504) Reason: "channel/connection is not open"
+2021/03/07 00:59:15 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:59:15 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 00:59:52 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 00:59:52 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:26 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:26 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:28 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:28 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:30 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:30 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:36 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:36 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:38 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:38 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:00:45 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:00:45 TopicConsumer.go:37:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:01:06 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:06 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:01:08 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:08 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:01:18 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:18 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:01:23 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:23 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:01:31 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:33 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:43 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:01:43 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:02:06 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:02:06 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:02:17 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:02:17 TopicConsumer.go:37:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:03:19 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:03:19 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:03:52 main.go:35: [SyncZone] 消费开启
+2021/03/07 01:03:52 main.go:35: [SyncUser] 消费开启
+2021/03/07 01:03:52 main.go:35: [SyncAddress] 消费开启
+2021/03/07 01:03:52 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/07 01:03:52 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/07 01:03:52 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/07 01:03:52 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:03:52 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:03:52 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/07 01:03:52 TopicConsumer.go:27:  [queue_address]收到消息 llll
