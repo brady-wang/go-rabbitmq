@@ -3809,3 +3809,236 @@
 2021/03/07 01:03:52 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
 2021/03/07 01:03:52 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
 2021/03/07 01:03:52 TopicConsumer.go:27:  [queue_address]收到消息 llll
+2021/03/07 01:07:17 TopicConsumer.go:27:  [queue_user]收到消息 sdfsdf
+2021/03/07 01:12:18 TopicConsumer.go:27:  [queue_user]收到消息 434354
+2021/03/07 01:12:37 TopicConsumer.go:27:  [queue_user]收到消息 434354
+2021/03/07 01:12:38 TopicConsumer.go:27:  [queue_user]收到消息 434354
+2021/03/07 01:13:32 TopicConsumer.go:27:  [queue_user]收到消息 434354
+2021/03/09 20:58:34 main.go:35: [SyncZone] 消费开启
+2021/03/09 20:58:34 main.go:35: [SyncUser] 消费开启
+2021/03/09 20:58:34 main.go:35: [SyncAddress] 消费开启
+2021/03/09 20:58:34 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 20:58:34 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 20:58:34 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 20:58:34 TopicConsumer.go:36:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 20:58:34 TopicConsumer.go:36:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 20:58:34 TopicConsumer.go:36:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 20:59:54 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:56 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:56 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:56 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:56 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:56 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 20:59:57 TopicConsumer.go:27:  [queue_address]收到消息 sdfsd
+2021/03/09 21:02:21 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:02:21 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:02:21 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:02:21 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:02:21 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:02:21 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:02:21 TopicConsumer.go:38:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:02:21 TopicConsumer.go:38:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:02:21 TopicConsumer.go:38:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:02:28 TopicConsumer.go:28:  [queue_address]收到消息 sdfsd
+2021/03/09 21:02:30 TopicConsumer.go:28:  [queue_address]收到消息 sdfsd
+2021/03/09 21:02:30 TopicConsumer.go:28:  [queue_address]收到消息 sdfsd
+2021/03/09 21:02:30 TopicConsumer.go:28:  [queue_address]收到消息 sdfsd
+2021/03/09 21:12:35 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:12:35 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:12:35 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:12:35 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:12:35 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:12:35 TopicConsumer.go:45:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:12:35 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:12:35 TopicConsumer.go:45:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:12:35 TopicConsumer.go:45:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:12:40 TopicConsumer.go:35:  [queue_address]收到消息 sdfsddfs
+2021/03/09 21:12:40 TopicConsumer.go:14: 接受到数据 sdfsddfs
+2021/03/09 21:34:57 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:34:57 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:34:57 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:34:57 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:34:57 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:34:57 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:34:57 TopicConsumer.go:46:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:34:57 TopicConsumer.go:46:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:34:57 TopicConsumer.go:46:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:35:12 TopicConsumer.go:36:  [queue_address]收到消息 sdfsddfssdfs
+2021/03/09 21:35:12 TopicConsumer.go:14: 接受到数据 sdfsddfssdfs
+2021/03/09 21:35:12 TopicConsumer.go:15: AddressCallBack
+2021/03/09 21:35:14 TopicConsumer.go:36:  [queue_address]收到消息 sdfsddfssdfs
+2021/03/09 21:35:14 TopicConsumer.go:14: 接受到数据 sdfsddfssdfs
+2021/03/09 21:35:14 TopicConsumer.go:15: AddressCallBack
+2021/03/09 21:35:14 TopicConsumer.go:36:  [queue_address]收到消息 sdfsddfssdfs
+2021/03/09 21:35:14 TopicConsumer.go:14: 接受到数据 sdfsddfssdfs
+2021/03/09 21:35:14 TopicConsumer.go:15: AddressCallBack
+2021/03/09 21:35:27 TopicConsumer.go:36:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:35:27 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:35:27 TopicConsumer.go:15: UserCallBack
+2021/03/09 21:35:28 TopicConsumer.go:36:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:15: UserCallBack
+2021/03/09 21:35:28 TopicConsumer.go:36:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:15: UserCallBack
+2021/03/09 21:35:28 TopicConsumer.go:36:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:15: UserCallBack
+2021/03/09 21:35:28 TopicConsumer.go:36:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:35:28 TopicConsumer.go:15: UserCallBack
+2021/03/09 21:35:37 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:37 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:37 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:38 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:38 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:38 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:38 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:38 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:39 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:39 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:39 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:39 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:39 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:39 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:40 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:40 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:40 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:35:40 TopicConsumer.go:36:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:35:40 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:35:40 TopicConsumer.go:15: ZoneCallBack
+2021/03/09 21:49:01 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:49:01 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:49:01 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:49:01 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:49:01 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:49:01 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:49:01 TopicConsumer.go:47:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:49:01 TopicConsumer.go:47:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:49:01 TopicConsumer.go:47:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:49:18 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:18 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:24 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:24 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:26 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:26 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:27 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:27 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:27 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:27 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:28 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:29 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:49:30 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:49:30 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:50:32 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:50:32 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:50:32 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:50:32 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:50:32 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:50:32 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:50:32 TopicConsumer.go:49:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:50:32 TopicConsumer.go:49:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:50:32 TopicConsumer.go:49:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:50:36 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:50:36 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:50:36 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:50:36 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:50:36 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:50:36 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:50:36 TopicConsumer.go:49:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:50:36 TopicConsumer.go:49:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:50:36 TopicConsumer.go:49:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:52:49 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:52:49 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:52:49 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:52:49 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:52:49 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:52:49 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:52:49 TopicConsumer.go:47:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:52:49 TopicConsumer.go:47:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:52:49 TopicConsumer.go:47:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:53:10 main.go:35: [SyncZone] 消费开启
+2021/03/09 21:53:10 main.go:35: [SyncUser] 消费开启
+2021/03/09 21:53:10 main.go:35: [SyncAddress] 消费开启
+2021/03/09 21:53:10 Topic.go:46: Binding queue queue_user to exchange exchange_user with routing key route_user
+2021/03/09 21:53:10 Topic.go:46: Binding queue queue_zone to exchange exchange_zone with routing key route_zone
+2021/03/09 21:53:10 Topic.go:46: Binding queue queue_address to exchange exchange_address with routing key route_address
+2021/03/09 21:53:10 TopicConsumer.go:47:  [queue_user] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:53:10 TopicConsumer.go:47:  [queue_zone] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:53:10 TopicConsumer.go:47:  [queue_address] Waiting for logs. To exit press CTRL+C
+2021/03/09 21:53:14 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:53:14 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:53:14 RabbitMqCallback.go:19: zone回调收到消息  sdfsdfsdf
+2021/03/09 21:53:15 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:53:15 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:53:15 RabbitMqCallback.go:19: zone回调收到消息  sdfsdfsdf
+2021/03/09 21:53:16 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:53:16 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:53:16 RabbitMqCallback.go:19: zone回调收到消息  sdfsdfsdf
+2021/03/09 21:53:16 TopicConsumer.go:37:  [queue_zone]收到消息 sdfsdfsdf
+2021/03/09 21:53:16 TopicConsumer.go:14: 接受到数据 sdfsdfsdf
+2021/03/09 21:53:16 RabbitMqCallback.go:19: zone回调收到消息  sdfsdfsdf
+2021/03/09 21:53:24 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:24 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:24 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:24 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:24 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:24 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:25 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:25 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:25 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:25 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:25 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:25 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
+2021/03/09 21:53:26 TopicConsumer.go:37:  [queue_user]收到消息 sdfsdf
+2021/03/09 21:53:26 TopicConsumer.go:14: 接受到数据 sdfsdf
+2021/03/09 21:53:26 RabbitMqCallback.go:14: user回调收到消息  sdfsdf
